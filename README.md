@@ -6,7 +6,7 @@ and network mapping that have helped me develop a strong foundation in
 Cybersecurity. I also have experience in music industry such as performing on stage, playing with DAW and many more</p>
 ---
 
-## 👨‍💻 About Me
+## About Me
 Name: Evan Pranawa Armansyah
 Location: Indonesia 🇮🇩  
 School: Pelita Nusantara Vocational High School  
