@@ -1,1 +1,35 @@
-<img src="https://camo.githubusercontent.com/28f5ec401e7ff0f565cae5988d3a10301010b522635858a70ff65b2efada4e2a/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d68746d6c2c6373732c6a732c7068702c7673636f64652c6769742c676974687562>
+<!-- Banner Animasi -->
+<p align="center">
+  <img src="https://i.ibb.co/6Y0d8hH/banner-github.gif" alt="Banner" width="100%">
+</p>
+
+<!-- Efek Mengetik Animasi -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=6CF8FF&center=true&vCenter=true&width=800&lines=Hi+there+👋;+I'm+Rayhan+Arie+Fahreza+🚀;Welcome+to+my+GitHub+Profile!;WebDevolopment+%26+Cybersecurity+Enthusiast" alt="Typing SVG" />
+</p>
+
+---
+
+## 👨‍💻 About Me
+Name: Rayhan Arie Fahreza  
+Location: Indonesia 🇮🇩  
+School: Pelita Nusantara Vocational High School  
+Focus: Cybersecurity • Web Development  
+OS: Windows  
+Quote: "Code. Build. Secure. Repeat."
+
+<p align="center"> 
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,vscode,git,github" /> 
+</p>
+
+<p align="center"> 
+  <img src="https://github-readme-stats.vercel.app/api?username=Rhanfahreza&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" width="48%"> 
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rhanfahreza&theme=tokyonight&hide_border=true&background=0d1117" width="48%"> 
+</p>
+
+<p align="center"> 
+  <img src="https://github-profile-trophy.vercel.app/?username=Rhanfahreza&theme=onedark&no-frame=true&row=1&column=6" /> 
+</p>
+
+<p align="center"> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rhanf
