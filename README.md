@@ -16,7 +16,8 @@ Quote: "if it works, dont touch it"<br>
 
 <p align="left"> 
   <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,vscode,bash"/> <br>
-  <img src="https://skillicons.dev/icons?i=stackoverflow,github,arch,vim,kali,npm"/>
+  <img src="https://skillicons.dev/icons?i=stackoverflow,github,arch,vim,kali,npm"/> <br>
+  <img src="https://skillicons.dev/icons?i=discord,linux,debian,replit"/>
 </p>
 
 <p align="center"> 
