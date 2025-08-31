@@ -19,7 +19,7 @@ OS: Arch Linux
 Quote: "if it works, dont touch it"
 
 <p align="center"> 
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,vscode,git,github,arch" /> 
+  <img src="https://skillicons.dev/icons?i=html,css,js,vscode,git,github,arch" /> 
 </p>
 
 <p align="center"> 
