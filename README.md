@@ -5,7 +5,6 @@
 Currently still in school but I've worked on various personal projects<br>including home class servers 
 and network mapping that have helped me develop a strong foundation in 
 Cybersecurity.<br> I also have experience in music industry such as performing on stage, playing with DAW and many more</p>
----
 
 ## About Me
 Name: Evan Pranawa Armansyah<br>
