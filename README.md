@@ -8,7 +8,7 @@ Cybersecurity.<br> I also have experience in music industry such as performing o
 
 ## About Me
 Name: Evan Pranawa Armansyah<br>
-Location: Indonesia 🇮🇩  <br>
+Location: Indonesia  <br>
 School: Pelita Nusantara Vocational High School  <br>
 Major: Cybersecurity & Networking<br>
 OS: Arch Linux<br>
