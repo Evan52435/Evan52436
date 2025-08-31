@@ -14,8 +14,8 @@ Major: Cybersecurity & Networking<br>
 OS: Arch Linux<br>
 Quote: "if it works, dont touch it"<br>
 
-<p align="center"> 
-  <img src="https://skillicons.dev/icons?i=html,css,js,vscode,git,github,arch,kali" /> 
+<p align="left"> 
+  <img src="https://skillicons.dev/icons?i=html,css,js,vscode,github,arch,vim,kali" /> 
 </p>
 
 <p align="center"> 
