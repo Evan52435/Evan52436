@@ -11,12 +11,12 @@
 ---
 
 ## 👨‍💻 About Me
-Name: Rayhan Arie Fahreza  
+Name: Evan Pranawa Armansyah
 Location: Indonesia 🇮🇩  
 School: Pelita Nusantara Vocational High School  
-Focus: Cybersecurity • Web Development  
-OS: Windows  
-Quote: "Code. Build. Secure. Repeat."
+Major: Cybersecurity & Networking
+OS: Arch Linux, Windows 7
+Quote: "if it works, dont touch it"
 
 <p align="center"> 
   <img src="https://skillicons.dev/icons?i=html,css,js,php,vscode,git,github" /> 
