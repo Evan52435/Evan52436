@@ -5,7 +5,7 @@
 
 <!-- Efek Mengetik Animasi -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=F05D3C&center=true&vCenter=true&width=800&lines=Evan+Pranawa+Armansyah+🚀;Welcome+to+my+GitHub+Profile!;Networking+%26+Cybersecurity+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=F05D3C&center=true&vCenter=true&width=800&lines=Evan+Pranawa+Armansyah+;Welcome+to+my+GitHub+Profile!;Networking+%26+Cybersecurity+Enthusiast" alt="Typing SVG" />
 </p>
 
 ---
@@ -15,7 +15,7 @@ Name: Evan Pranawa Armansyah
 Location: Indonesia 🇮🇩  
 School: Pelita Nusantara Vocational High School  
 Major: Cybersecurity & Networking
-OS: Arch Linux, Windows 7
+OS: Arch Linux
 Quote: "if it works, dont touch it"
 
 <p align="center"> 
