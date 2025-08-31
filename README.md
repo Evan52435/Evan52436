@@ -1,5 +1,5 @@
 
-## Evan Pranawa Armansyah
+## Evan Pranawa Armansyah 
 
 <p>I'm a tech enthusiast based in Bogor, Indonesia. 
 Currently still in school but I've worked on various personal projects<br>including home class servers 
