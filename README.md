@@ -15,7 +15,7 @@ OS: Arch Linux<br>
 Quote: "if it works, dont touch it"<br>
 
 <p align="center"> 
-  <img src="https://skillicons.dev/icons?i=html,css,js,vscode,git,github,arch" /> 
+  <img src="https://skillicons.dev/icons?i=html,css,js,vscode,git,github,arch,kali" /> 
 </p>
 
 <p align="center"> 
