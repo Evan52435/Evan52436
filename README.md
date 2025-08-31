@@ -2,7 +2,7 @@
 ## Evan Pranawa Armansyah
 
 <p>I'm a tech enthusiast based in Bogor, Indonesia. 
-Currently still in school but I've worked on various personal projects including home class servers 
+Currently still in school but I've worked on various personal projects<br>including home class servers 
 and network mapping that have helped me develop a strong foundation in 
 Cybersecurity. I also have experience in music industry such as performing on stage, playing with DAW and many more</p>
 ---
