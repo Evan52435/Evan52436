@@ -16,15 +16,18 @@ OS: Arch Linux<br>
 Quote: "if it works, dont touch it"<br>
 
 ## Tools
+<div class="boxalamak">
 <p align="left"> 
-  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,vscode,bash"/> <br>
+  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,vscode,bash"/>  <br>                         
   <img src="https://skillicons.dev/icons?i=stackoverflow,github,arch,vim,kali,npm"/> <br>
   <img src="https://skillicons.dev/icons?i=discord,linux,debian,replit"/>
 </p>
-
-<p align="center"> 
+</div>
+<p align="right"> 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Evan52436&theme=tokyonight&hide_border=true&background=0d1117" width="48%"> 
 </p>
+
+
 
 
 
