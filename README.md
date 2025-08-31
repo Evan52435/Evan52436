@@ -26,11 +26,6 @@ Quote: "if it works, dont touch it"<br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Evan52436&theme=tokyonight&hide_border=true&background=0d1117" width="48%"> 
 </p>
 
-<p align="center"> 
-  <img src="https://github-profile-trophy.vercel.app/?username=Evan52436&theme=onedark&no-frame=true&row=1&column=6" /> 
-</p>
 
-<p align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Evan52436
 
 
