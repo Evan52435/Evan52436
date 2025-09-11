@@ -4,16 +4,9 @@
 <p>I'm a tech enthusiast based in Bogor, Indonesia. 
 Currently still in school but I've worked on various personal projects<br>including home class servers 
 and network mapping that have helped me develop a strong foundation in 
-Cybersecurity.<br> I also have experience in music industry such as performing on stage, Event Audio Engineer, playing with DAW and many more</p>
+Cybersecurity.<br> I also have experience in music industry such as performing on stage, Event Audio Engineer, playing with DAW and many more.<br>
+I major in Computer Science Cybersecurity and Networking</p>
 
-## About Me
-Name: Evan Pranawa Armansyah<br>
-Location: Indonesia (ID) <br>
-School: SMK Plus Pelita Nusantara (Vocational High School)  <br>
-Major: Computer Science // Rekayasa Perangkat Lunak (CompSci // RPL)<br>
-Division : Cybersecurity & Networking<br>
-OS: Arch Linux<br>
-Quote: "if it works, dont touch it"<br>
 
 ## Tools
 <div class="boxalamak">
@@ -23,9 +16,6 @@ Quote: "if it works, dont touch it"<br>
   <img src="https://skillicons.dev/icons?i=discord,linux,debian,replit"/>
 </p>
 </div>
-<p align="right"> 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Evan52436&theme=tokyonight&hide_border=true&background=0d1117" width="48%"> 
-</p>
 
 
 
