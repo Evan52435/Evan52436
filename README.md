@@ -9,7 +9,7 @@ I major in Computer Science Cybersecurity and Networking</p>
 
 ## // Details 
 Major : Rekayasa Perangkat Lunak (RPL)<br>
-Division : Cybersecurity & Webdevolopment<br>
+Division : Cybersecurity & Network Engineer<br>
 OS : Arch Linux<br>
 ## // Tools 
 <div class="boxalamak">
