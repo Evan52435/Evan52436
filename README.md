@@ -14,7 +14,7 @@ OS : Arch Linux<br>
 ## // Tools 
 <div class="boxalamak">
 <p align="left"> 
-  <img src="https://skillicons.dev/icons?i=js,java,vim,vscode,bash,replit"/>  <br>                         
+  <img src="https://skillicons.dev/icons?i=js,vim,vscode,bash,java,replit"/>  <br>                         
   <img src="https://skillicons.dev/icons?i=discord,stackoverflow,debian,arch,kali"/>
 </p>
 </div>
